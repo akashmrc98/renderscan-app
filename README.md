@@ -1,6 +1,4 @@
-# razorpay_flutter_example
-
-Demonstrates how to use the razorpay_flutter plugin.
+# Renderscammer
 
 ## Getting Started
 
